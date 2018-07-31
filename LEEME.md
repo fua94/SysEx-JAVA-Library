@@ -17,6 +17,4 @@ send(MidiMessage msg, long time)
 
 Mediante esta bliblioteca puedes manejar dispositivos MIDI como pedales multiefectos, mezcladoras, teclados, etc.
 
-Ejemplo:
-
 
