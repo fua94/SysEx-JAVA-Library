@@ -18,4 +18,4 @@ send(MidiMessage msg, long time)
 Mediante esta bliblioteca puedes manejar dispositivos MIDI como pedales multiefectos, mezcladoras, teclados, etc.
 
 Ejemplo:
-![Screenshot](controller.png)
+![alt text](https://raw.githubusercontent.com/fua94/SysEx-JAVA-Library/branch/path/to/controller.png)
